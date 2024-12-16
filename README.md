@@ -1,4 +1,4 @@
-SVRDMF[Short Video Rumor Detection based on MambaFormer]
+SVFDMF[A Cross-modal Fusion Method for Short Video Fake News Detection via MambaFormer]
 
 ### Environment
 Please refer to the file requirements.txt.
