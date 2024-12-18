@@ -12,5 +12,7 @@ FakeTT:[FakingRecipe: Detecting Fake News on Short Video Platforms from the Pers
 To facilitate reproduction, we provide papers on preprocessing methods that you can use to process the features. Please place these features in the specified location, which can be customized in dataloader.py.
 
 Bert: https://github.com/ymcui/Chinese-BERT-wwm.
+
 MAE：https://github.com/facebookresearch/mae.
+
 HuBert：https://github.com/bshall/hubert.
